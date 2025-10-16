@@ -1,0 +1,6 @@
+{
+    "name": "USDC Coin",
+    "symbol": "USDC",
+    "description": "Fully for testing purposes only",
+    "image": "https://raw.githubusercontent.com/jude98/spl-token-metadata/refs/heads/main/token-logos/usdc.png"
+}
